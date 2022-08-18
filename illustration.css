@@ -40,6 +40,7 @@ article {
 }
 article img {
     width: 33.3%; 
+    flex: 1 1;
    
 }
 
